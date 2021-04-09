@@ -25,7 +25,7 @@ The designs were created to the following widths:
 
 - Font size: 16px
 
-### Font
+## Font
 
 - Family: [Karla](https://fonts.google.com/specimen/Karla)
 - Weights: 400, 700
